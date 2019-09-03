@@ -39,7 +39,7 @@
                             </form>
                         </div>
                     </li>
-            @endguest
+                @endguest
             <!-- 登录注册链接结束 -->
             </ul>
         </div>
