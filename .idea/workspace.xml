@@ -27,6 +27,30 @@
     <expand />
     <select />
   </component>
+<<<<<<< HEAD
+=======
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+=======
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/OrdersController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+              <folding>
+                <element signature="e#40#83#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+>>>>>>> 66b47816b9bb420f9e11a193973ce8ccea9f3be2
+        </entry>
+      </file>
+    </leaf>
+  </component>
+>>>>>>> 325d2be1c0131d641757a2c8e407af9d7b358fec
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -84,6 +108,26 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/app/Admin/Controllers/UsersController.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_08_31_152803_create_products_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_08_31_152829_create_product_skus_table.php" />
+        <option value="$PROJECT_DIR$/app/Models/ProductSku.php" />
+        <option value="$PROJECT_DIR$/app/Admin/routes.php" />
+        <option value="$PROJECT_DIR$/resources/lang/zh-CN.json" />
+        <option value="$PROJECT_DIR$/app/Admin/bootstrap.php" />
+        <option value="$PROJECT_DIR$/config/admin.php" />
+        <option value="$PROJECT_DIR$/app/Admin/Controllers/ProductsController.php" />
+        <option value="$PROJECT_DIR$/bootstrap/helpers.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/_footer.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" />
+        <option value="$PROJECT_DIR$/resources/views/pages/root.blade.php" />
+        <option value="$PROJECT_DIR$/webpack.mix.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/LoginController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/VerificationController.php" />
+=======
+>>>>>>> 66b47816b9bb420f9e11a193973ce8ccea9f3be2
         <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/ResetPasswordController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php" />
         <option value="$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php" />
@@ -111,6 +155,11 @@
         <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/app/Exceptions/InternalException.php" />
         <option value="$PROJECT_DIR$/app/Exceptions/InvalidRequestException.php" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/database/migrations/2019_09_02_172259_create_user_favorite_products_table.php" />
+        <option value="$PROJECT_DIR$/app/Models/User.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" />
+=======
         <option value="$PROJECT_DIR$/.env" />
         <option value="$PROJECT_DIR$/database/migrations/2019_09_02_204838_create_user_favorite_products_table.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/ProductsController.php" />
@@ -135,6 +184,7 @@
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/views/cart/index.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/OrdersController.php" />
+>>>>>>> 66b47816b9bb420f9e11a193973ce8ccea9f3be2
       </list>
     </option>
   </component>
@@ -248,6 +298,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -255,6 +306,8 @@
               <item name="laravel-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel-shop" type="462c0819:PsiDirectoryNode" />
             </path>
+<<<<<<< HEAD
+=======
             <path>
               <item name="laravel-shop" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel-shop" type="462c0819:PsiDirectoryNode" />
@@ -301,11 +354,11 @@
               <item name="storage" type="462c0819:PsiDirectoryNode" />
               <item name="logs" type="462c0819:PsiDirectoryNode" />
             </path>
+>>>>>>> 66b47816b9bb420f9e11a193973ce8ccea9f3be2
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -384,8 +437,16 @@
       <workItem from="1567255065586" duration="16150000" />
       <workItem from="1567329637398" duration="2880000" />
       <workItem from="1567408986563" duration="3555000" />
+<<<<<<< HEAD
       <workItem from="1567430227684" duration="7394000" />
       <workItem from="1567513299970" duration="691000" />
+=======
+<<<<<<< HEAD
+      <workItem from="1567413976327" duration="2700000" />
+=======
+      <workItem from="1567430227684" duration="7149000" />
+>>>>>>> 66b47816b9bb420f9e11a193973ce8ccea9f3be2
+>>>>>>> 325d2be1c0131d641757a2c8e407af9d7b358fec
     </task>
     <task id="LOCAL-00001" summary="mark">
       <created>1565613904974</created>
@@ -398,7 +459,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="83217000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="74234000" />
+=======
+    <option name="totallyTimeSpent" value="82281000" />
+>>>>>>> 66b47816b9bb420f9e11a193973ce8ccea9f3be2
+>>>>>>> 325d2be1c0131d641757a2c8e407af9d7b358fec
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -411,15 +480,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" order="0" sideWeight="0.5010776" side_tool="true" weight="0.14375988" />
       <window_info id="Favorites" order="1" side_tool="true" />
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4989224" visible="true" weight="0.14586625" />
+=======
+<<<<<<< HEAD
+      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.4989224" visible="true" weight="0.16302083" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.4989224" visible="true" weight="0.14749734" />
+>>>>>>> 66b47816b9bb420f9e11a193973ce8ccea9f3be2
+>>>>>>> 325d2be1c0131d641757a2c8e407af9d7b358fec
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info id="Database" order="4" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
-      <window_info anchor="bottom" id="Version Control" order="2" weight="0.31465518" />
+      <window_info anchor="bottom" id="Version Control" order="2" weight="0.31401476" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" weight="0.32876712" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
@@ -482,6 +560,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="mark" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/app/Models/ProductSku.php">
+=======
     <entry file="file://$PROJECT_DIR$/resources/views/user_addresses/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="673">
@@ -497,6 +578,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Providers/AuthServiceProvider.php">
+>>>>>>> 66b47816b9bb420f9e11a193973ce8ccea9f3be2
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
           <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
@@ -794,6 +876,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ProductsController.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="84">
+          <caret line="69" column="22" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/logs/laravel-2019-08-31.log" />
+    <entry file="file://$PROJECT_DIR$/app/Exceptions/Handler.php">
+=======
         <state relative-caret-position="851">
           <caret line="88" column="69" selection-start-line="88" selection-start-column="69" selection-end-line="88" selection-end-column="69" />
           <folding>
@@ -803,6 +894,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Models/ProductSku.php">
+>>>>>>> 66b47816b9bb420f9e11a193973ce8ccea9f3be2
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
@@ -812,13 +904,48 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/storage/logs/laravel-2019-09-02.log" />
+    <entry file="file://$PROJECT_DIR$/app/Exceptions/InternalException.php">
+=======
     <entry file="file://$PROJECT_DIR$/resources/views/cart/index.blade.php">
+>>>>>>> 66b47816b9bb420f9e11a193973ce8ccea9f3be2
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="635">
           <caret line="125" column="29" lean-forward="true" selection-start-line="125" selection-start-column="16" selection-end-line="125" selection-end-column="29" />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/app/Exceptions/InvalidRequestException.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#35#49#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_09_02_172259_create_user_favorite_products_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Models/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/ProductsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="852">
+          <caret line="69" column="18" selection-start-line="69" selection-start-column="18" selection-end-line="69" selection-end-column="18" />
+=======
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
@@ -830,6 +957,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
           <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+>>>>>>> 66b47816b9bb420f9e11a193973ce8ccea9f3be2
           <folding>
             <element signature="e#40#83#0#PHP" expanded="true" />
           </folding>
